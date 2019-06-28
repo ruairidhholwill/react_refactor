@@ -27,4 +27,4 @@ class SelectView {
   };
 }
 
-export {SelectView};
+export default SelectView;

@@ -20,4 +20,4 @@ class InstrumentFamilies {
     PubSub.publish('InstrumentFamilies:selected-family-ready', selectedFamily)
   };
 }
-export {InstrumentFamilies};
+export default InstrumentFamilies;
